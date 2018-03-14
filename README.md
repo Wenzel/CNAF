@@ -1,5 +1,5 @@
 # CNAF
-Source code used by the Fench CNAF (Caisse nationale des allocations familiales)
+Source code used by the French CNAF (Caisse Nationale des Allocations Familiales)
 
 # Source
 
